@@ -1,5 +1,3 @@
-#pragma once
-
 #include "print.h"
 
 void print_from_a() {
