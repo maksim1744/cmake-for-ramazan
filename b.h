@@ -7,4 +7,5 @@ void print_from_b() {
     S().print_4("b", 123);
     S().print_5("b", 123);
     print_6("b", 123);
+    S().print_7("b", 123);
 }
