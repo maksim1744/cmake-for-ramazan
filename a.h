@@ -6,4 +6,5 @@ void print_from_a() {
     print_3("a", 123.456);
     S().print_4("a", 123);
     S().print_5("a", 123);
+    print_6("a", 123);
 }

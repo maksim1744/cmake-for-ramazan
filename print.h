@@ -22,3 +22,7 @@ struct S {
 
     void print_5(string who, int num);
 };
+
+inline void print_6(string who, int num) {
+    cout << "[" << who << "][6] " << num << endl;
+}
